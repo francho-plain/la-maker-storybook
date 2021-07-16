@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="110" viewBox="0 0 156 110">
+    <defs>
+        <filter id="k2ahqg3yeb" width="111%" height="116%" x="-5.5%" y="-7%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+        </filter>
+        <rect id="1iaqmhntoa" width="146" height="100" x="0" y="0" rx="4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 4)">
+        <mask id="vwgsfnvtdc" fill="#fff">
+            <use xlink:href="#1iaqmhntoa"/>
+        </mask>
+        <use fill="#000" filter="url(#k2ahqg3yeb)" xlink:href="#1iaqmhntoa"/>
+        <use fill="#43bee4" xlink:href="#1iaqmhntoa"/>
+        <g fill="#BAEFFF" mask="url(#vwgsfnvtdc)">
+            <g transform="translate(-12 35)">
+                <rect width="24" height="30" rx="3"/>
+                <rect width="24" height="30" x="30" rx="3"/>
+                <rect width="24" height="30" x="60" rx="3"/>
+                <rect width="24" height="30" x="90" rx="3"/>
+                <rect width="24" height="30" x="120" rx="3"/>
+                <rect width="24" height="30" x="150" rx="3"/>
+            </g>
+        </g>
+    </g>
+</svg>

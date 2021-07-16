@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="135" viewBox="0 0 135 135">
+    <defs>
+        <path id="gcw0oui4sc" d="M3.448 49.461c-11.614 37.046 9.002 76.492 46.048 88.106 37.044 11.616 76.491-9 88.106-46.045 11.614-37.045-9-76.493-46.047-88.107C84.56 1.22 77.48.177 70.515.177 40.6.178 12.867 19.416 3.447 49.46z"/>
+        <path id="9jsxnyu63e" d="M0 0.004L105.924 0.004 105.924 58.445 0 58.445z"/>
+        <path id="gvwip72x5g" d="M0 63.996L105.924 63.996 105.924 0.16 0 0.16z"/>
+        <circle id="6ybu5w12ca" cx="67.2" cy="67.2" r="67.2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-417 -3897) translate(132 3873) translate(285 24)">
+                    <mask id="8lv7ohe3jb" fill="#fff">
+                        <use xlink:href="#6ybu5w12ca"/>
+                    </mask>
+                    <use fill="#FFF" xlink:href="#6ybu5w12ca"/>
+                    <g mask="url(#8lv7ohe3jb)">
+                        <g transform="translate(-3.6 -6.897)">
+                            <mask id="mlacsdldgd" fill="#fff">
+                                <use xlink:href="#gcw0oui4sc"/>
+                            </mask>
+                            <g mask="url(#mlacsdldgd)">
+                                <g transform="translate(17.6 43.897)">
+                                    <path fill="#192F42" d="M71.668 44.832s.815-1.617 2.389-1.701c1.574-.085 15.514 0 15.514 0l-1.293 1.7h-16.61z"/>
+                                    <g transform="translate(0 .156)">
+                                        <mask id="pp0slj8rff" fill="#fff">
+                                            <use xlink:href="#9jsxnyu63e"/>
+                                        </mask>
+                                        <path fill="#003245" d="M104.188 58.445H1.736C.777 58.445 0 57.668 0 56.709V1.74C0 .782.777.004 1.736.004h102.452c.958 0 1.736.778 1.736 1.736V56.71c0 .959-.778 1.736-1.736 1.736" mask="url(#pp0slj8rff)"/>
+                                    </g>
+                                    <path fill="#003245" d="M32.884 66h40.168c.313-.44.47-.773.47-1 0-.227-.157-.56-.47-1H32.884c-.242.437-.363.77-.363 1 0 .23.121.563.363 1z" transform="matrix(1 0 0 -1 0 130)"/>
+                                    <path fill="#BAEFFF" d="M102.982 54.755c-.002.617-.504 1.116-1.121 1.115l-97.947-.278c-.618-.002-1.117-.504-1.116-1.122l.144-50.465c.002-.617.504-1.117 1.121-1.115l97.947.278c.618.001 1.117.504 1.115 1.12l-.143 50.467z"/>
+                                    <mask id="7fcxsvzuih" fill="#fff">
+                                        <use xlink:href="#gvwip72x5g"/>
+                                    </mask>
+                                    <path fill="#003245" d="M42.449 63.996L63.476 63.996 63.476 58.338 42.449 58.338z" mask="url(#7fcxsvzuih)"/>
+                                    <path fill="#22445D" d="M98.325 57.9c-.358 0-.647-.29-.647-.647 0-.358.29-.648.647-.648.358 0 .647.29.647.648 0 .357-.29.647-.647.647z" mask="url(#7fcxsvzuih)"/>
+                                </g>
+                            </g>
+                            <g fill="#FFF" mask="url(#mlacsdldgd)">
+                                <path d="M1.552 23.36c.793 0 1.436.643 1.436 1.436 0 .794-.643 1.437-1.436 1.437-.794 0-1.437-.643-1.437-1.437 0-.793.643-1.436 1.437-1.436zm0-23.155c.695 0 1.26.564 1.26 1.26V18.87c0 .696-.565 1.26-1.26 1.26-.696 0-1.26-.564-1.26-1.26V1.465c0-.696.564-1.26 1.26-1.26z" transform="translate(69 63)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

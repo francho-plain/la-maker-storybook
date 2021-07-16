@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="82px" viewBox="0 0 118 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0C7F60DE-A8DC-4ACC-8443-95EB84EE2BC7</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="116" height="79.6875" rx="4.8"></rect>
+    </defs>
+    <g id="UI-kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Response-assets" transform="translate(-609.000000, -4681.000000)">
+            <g id="Group-150" transform="translate(0.000000, 4603.000000)">
+                <g id="Group-147" transform="translate(70.000000, 32.000000)">
+                    <g id="Group-143" transform="translate(0.000000, 47.000000)">
+                        <g id="icn_carousel_layout_default" transform="translate(540.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" stroke="#CCCCCC" stroke-width="0.8" xlink:href="#path-1"></use>
+                            <rect id="Rectangle-Copy-16" fill="#CCCCCC" mask="url(#mask-2)" x="4.95726496" y="19" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-18" fill="#CCCCCC" mask="url(#mask-2)" x="36.3504274" y="19" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-19" fill="#CCCCCC" mask="url(#mask-2)" x="67.3496581" y="19" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-23" fill="#CCCCCC" mask="url(#mask-2)" x="98.3496581" y="19" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-16" fill="#CCCCCC" mask="url(#mask-2)" x="4.95726496" y="42" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-22" fill="#CCCCCC" mask="url(#mask-2)" x="35.957265" y="42" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-18" fill="#CCCCCC" mask="url(#mask-2)" x="66.957265" y="42" width="26.7692308" height="18" rx="2.4"></rect>
+                            <rect id="Rectangle-Copy-19" fill="#CCCCCC" mask="url(#mask-2)" x="97.957265" y="42" width="26.7692308" height="18" rx="2.4"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

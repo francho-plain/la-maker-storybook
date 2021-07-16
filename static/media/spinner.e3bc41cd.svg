@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <style type="text/css">
+        @keyframes spinner {
+          to {transform: rotate(360deg);}
+        }
+        #spinner {
+            animation: spinner 0.9s ease-in-out infinite;
+            transform-origin: center;
+        }
+    </style>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" id="spinner">
+        <g stroke="#00EDFF" stroke-width="2">
+            <path d="M160 579c0 6 5.373 12 12 12s12-5.373 12-12-5.373-12-12-12" transform="translate(-159 -566)"/>
+        </g>
+    </g>
+</svg>
